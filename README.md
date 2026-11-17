@@ -1,5 +1,7 @@
 # 📊 Global Commodity & Financial Market Correlation Analysis & Forecasting
 
+[English README](./README.md) | [中文项目介绍](./README_CN.md)
+
 This project analyzes the relationship between macroeconomic indicators and LME copper prices using machine learning and financial market data.
 
 The project combines:
